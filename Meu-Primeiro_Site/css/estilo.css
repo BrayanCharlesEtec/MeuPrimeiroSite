@@ -1,27 +1,3 @@
-body {
-background-color: azure;
-}
-header{
-    background-color: bisque;
-}
-.simbolo{
-    background-color: blueviolet;
-}
-nav{
-    background-color: chartreuse;
-}
-main{
-    background-color: aqua;
-    width: 80;
-    margin-left: auto;
-    margin-right: auto;
-
-}
-header{
-    background-color: steelblue;
-    padding-top: 20;
-}
-footer{
-    background-color: black;
-    padding: 60;
+p{
+    color: green;
 }
